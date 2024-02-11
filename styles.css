@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#img{
+	image-height:100px;
+}
+#p{
+	text-transform:capitalize;
+}
